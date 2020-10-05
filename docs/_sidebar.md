@@ -1,4 +1,4 @@
-* [kendall 寻offer面试](/README.md)
+* [kendall 寻offer面试题](/README.md)
 
 * JavaScript基础test
   * [JS中的变量与类型](/JavaScript基础/JS中的变量和类型.md)
