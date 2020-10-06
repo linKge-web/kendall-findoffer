@@ -1,7 +1,8 @@
 * [kendall 寻offer面试题](/README.md)
 
 * JavaScript基础test
-  * [JS中的变量与类型](/JavaScript基础/JS中的变量和类型.md)
+  * [JS面试题&答案01](/JavaScript/JS面试题&答案01.md)
+  
   * [ES6let,const与块作用域](/JavaScript基础/ES6let,const与块作用域.md)
   * [ES6常用的新特性总结](/JavaScript基础/ES6常用的新特性总结.md)
 
