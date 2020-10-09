@@ -1,10 +1,14 @@
 * [kendall 寻offer面试题](/README.md)
 
-* JavaScript基础test
+* JavaScript
   * [JS面试题&答案01](/JavaScript/JS面试题&答案01.md)
   
   * [ES6let,const与块作用域](/JavaScript基础/ES6let,const与块作用域.md)
   * [ES6常用的新特性总结](/JavaScript基础/ES6常用的新特性总结.md)
+
+* HTML
+  * [html面试题01](/HTML/html面试题01.md)
+
 
 * 数据结构学习test
   * [01.栈](/数据结构学习/01.栈.md)
