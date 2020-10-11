@@ -70,7 +70,7 @@
 
 - **presto内核**（Opera前内核）（已废弃）：该款引擎的特点就是渲染速度的优化达到了极致，然而代价却是牺牲了网页的兼容性。
 
-**Webkit内核**：（Safari内核，Chrome内核原型，开源），它是苹果公司自己的内核，也是苹果的Safari浏览器使用的内核。
+- **Webkit内核**：（Safari内核，Chrome内核原型，开源），它是苹果公司自己的内核，也是苹果的Safari浏览器使用的内核。
 
 > Webkit引擎包含WebCore排版引擎及JavaScriptCore解析引擎，均是从KDE的KHTML及KJS引擎衍生而来，它们都是自由软件，在GPL条约下授权，同时也支持BSD系统的开发。所有Webkit也是自由软件，同时开放源代码。在安全方面不受IE，FireFox的制约。   
 > 所以，**Safari浏览器在国内还是很安全的。**
